@@ -1,0 +1,5 @@
+obj
+src/Presentation/Admin.Api/appsettings.json
+bin
+.DS_Store
+.vscode
